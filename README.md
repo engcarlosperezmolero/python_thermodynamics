@@ -1,8 +1,8 @@
- # python_thermodynamics
- ### Aplicación para calcular propiedades termodinamicas de un sistema binario en fase vapor-liquido usando enfoque γ-φ
+# python_thermodynamics
+### Aplicación para calcular propiedades termodinamicas de un sistema binario en fase vapor-liquido usando enfoque γ-φ
 
 
- 📌 Paquetes usados
+📌 Paquetes usados
 
     ✔️ tkinter (para la UI)
 

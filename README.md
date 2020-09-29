@@ -13,8 +13,12 @@
     
 ---
 
-> ### Para correr el proyecto, clonar el repositorio y luego abrir el archivo *main.py*, el mismo es el que debe ser ejecutado.
->    - tkinter y sqlite vienen por defecto dentro de Python.
->    - instalar pandas: pip install pandas
+### Para correr el proyecto, clonar el repositorio y luego abrir el archivo *main.py*, el mismo es el que debe ser ejecutado.
+    - tkinter y sqlite vienen por defecto dentro de Python.
+    - instalar pandas: pip install pandas
 
 ---
+### Imagenes de muestra de lo que deberia encontrar al correr el archivo.
+
+![Primera ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/0_ventana_principal.JPG?raw=true)
+

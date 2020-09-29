@@ -26,3 +26,23 @@ Ventana principal:
 
 Ventana principal mostrando la selección de componentes, cada vez que se selecciona un componente se imprimen en la UI las propiedas del componente puro:
 
+>>> ![Segunda ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/1_ventana_principal_select.JPG?raw=true "Segunda ventana")
+
+Ventana derivada despues de darle a cualquiera de los botones para calcular la propiedad deseada.
+Esto causa tambien una ventana indicandole algo importante al usuario.
+
+>>> ![Tercera ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/2_ventana_child_con_warning.JPG?raw=true "Tercera ventana")
+
+Ventana derivada mostrando como maneja un error de input del usuario, indicandole que tipo de data puede ingresar:
+
+>>> ![Cuarta ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/3_ventana_child_con_error.JPG?raw=true "Cuarta ventana")
+
+Ventana derivada mostrando una advertencia, recordandole al usuario que debe ingresar todos los campos antes de poder calcular algo:
+
+>>> ![Quinta ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/4_ventana_child_con_warning_2.JPG?raw=true "Quinta ventana")
+
+Ventana derivada mostrando la funcion de impresión de resultados luego de realizar la lógica de asignación y calculos del backend:
+
+>>> ![Sexta ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/5_ventana_child_resultados_reflejados.JPG?raw=true "Sexta ventana")
+
+---

@@ -20,5 +20,9 @@
 ---
 ### Imagenes de muestra de lo que deberia encontrar al correr el archivo.
 
-![Primera ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/0_ventana_principal.JPG?raw=true)
+Ventana principal:
+
+>>> ![Primera ventana](https://github.com/engcarlosperezmolero/python_thermodynamics/blob/master/imagenes_de_muestra/0_ventana_principal.JPG?raw=true "Primera ventana")
+
+Ventana principal mostrando la selección de componentes, cada vez que se selecciona un componente se imprimen en la UI las propiedas del componente puro:
 
